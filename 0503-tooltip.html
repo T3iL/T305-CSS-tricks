@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>SimpleLayout</title>
+	<style>
+	.link{
+		position:relative;
+		color:blue;
+		cursor:pointer;
+	}
+	.opis{
+		width:200px;
+		position:absolute;
+		left:30px;
+		top:30px;
+		display:none;
+		background:lightblue;
+		color:black;
+		padding:10px;
+		border-radius:10px;
+	}
+	.link:hover > .opis{
+		display:block;
+	}
+	.opis::before{
+		content:"";
+		width:0;
+		height:0;
+		display:block;
+		position:absolute;
+		top:-20px;
+		border-bottom:10px solid lightblue;
+		border-top:10px solid transparent;
+		border-left:10px solid transparent;
+		border-right:10px solid tranparent;
+	}
+	</style>
+	</head>
+	<body>
+    <div id="content">
+        Lorem ipsum <span class="link" title="TOOLTIP">dolor<div class="opis">To jest wyjasnienie</div></span> sit amet consectetur adipisicing elit. Facere, magnam pariatur dolorum reprehenderit sit nemo placeat quisquam atque a obcaecati quas nulla totam iure adipisci ex modi odit cumque et <span class="link">quod laborum<div class="opis">To jest wyjasnienie 2</div></span> incidunt cum suscipit, unde ipsa. Dolores placeat molestias dolorum voluptates <span class="link">voluptatem<div class="opis">To jest wyjasnienie 3</div></span>, laudantium voluptatum, cupiditate hic ab explicabo incidunt.
+    </div>
+	</body>
+</html>
