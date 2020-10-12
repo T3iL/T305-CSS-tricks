@@ -21,6 +21,9 @@ Wycentrować element na stronie (wymagana znajomość co najmniej dwóch sposob�
 
 ZADT30504
 Przygotować stronę wyposażoną w mechanizm "tooltips" z kolorowym tłem i strzałką, reagujące na elementy.
+
+ZADT30505
+Wyświetl trzy karty na środku strony (w pionie i w poziomie) zbudowane z dwóch elementów (front i back).
 ```
 
 https://www.w3schools.com/css/css_intro.asp
