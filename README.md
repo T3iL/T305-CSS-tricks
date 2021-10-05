@@ -8,6 +8,9 @@
 5. Pseudoelementy
 ```
 
+https://css-tricks.com/the-shapes-of-css/
+
+
 ```
 ZADT30501
 Przygotować opis znaczników h1, p, ul, li z wyjaśnieniam 
