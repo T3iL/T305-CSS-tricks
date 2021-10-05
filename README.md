@@ -1,4 +1,4 @@
-# T305-CSS_Tricks (2020.10.05)
+# T305-CSS_Tricks
 ## -------INFO
 ```
 1. Layout strony
