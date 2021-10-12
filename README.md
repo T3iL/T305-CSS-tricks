@@ -29,7 +29,7 @@ ZADT30505
 Wyświetl trzy karty na środku strony (w pionie i w poziomie) zbudowane z dwóch elementów (front i back).
 ```
 
-![3cols](/3cols.PNG)
+![3cols](/3cols.png)
 
 https://www.w3schools.com/css/css_intro.asp
 
