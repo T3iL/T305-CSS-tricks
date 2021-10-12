@@ -14,7 +14,7 @@ https://css-tricks.com/the-shapes-of-css/
 ```
 ZADT30501
 Przygotować opis znaczników h1, p, ul, li z wyjaśnieniam 
-oraz przykładem uzycia (zastosować encje HTML).
+oraz przykładem uzycia (zastosować encje HTML). Prosty tutorial HTML w autorskim layoucie.
 
 ZADT30502
 Odtworzyć layout z ilustracji ZAD030502
@@ -28,6 +28,8 @@ Przygotować stronę wyposażoną w mechanizm "tooltips" z kolorowym tłem i str
 ZADT30505
 Wyświetl trzy karty na środku strony (w pionie i w poziomie) zbudowane z dwóch elementów (front i back).
 ```
+
+![3cols](/3cols.PNG)
 
 https://www.w3schools.com/css/css_intro.asp
 
