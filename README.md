@@ -17,7 +17,7 @@ Przygotować opis znaczników h1, p, ul, li z wyjaśnieniam
 oraz przykładem uzycia (zastosować encje HTML). Prosty tutorial HTML w autorskim layoucie.
 
 ZADT30502
-Odtworzyć layout z ilustracji ZAD030502
+Odtworzyć layout z poniższej ilustracji (3cols.png)
 
 ZADT30503
 Wycentrować element na stronie (wymagana znajomość co najmniej dwóch sposobów)
