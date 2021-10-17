@@ -39,8 +39,30 @@ vmax | Relative to 1% of viewport's* larger dimension
 * absolute
 * sticky
 6. Z-index
-7. Pseudoelementy
-8. iFrame
+7. Pseudoklasy
+```
+/* unvisited link */
+a:link {
+  color: #FF0000;
+}
+
+/* visited link */
+a:visited {
+  color: #00FF00;
+}
+
+/* mouse over link */
+a:hover {
+  color: #FF00FF;
+}
+
+/* selected link */
+a:active {
+  color: #0000FF;
+}
+```
+9. Pseudoelementy
+10. iFrame
 ```
 <iframe src="//DuckDuckGo.com" height="200">
     Twoja przeglądarka nie obsługuje iframe.
