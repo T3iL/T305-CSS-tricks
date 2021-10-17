@@ -1,6 +1,6 @@
 # T305-CSS_Tricks
 ## -------INFO
-```
+
 1. Layout strony
 1.1. Floats
 1.2. Flex
@@ -9,7 +9,7 @@
 3. Position i display
 4. Z-index
 5. Pseudoelementy
-```
+
 
 https://css-tricks.com/the-shapes-of-css/
 
