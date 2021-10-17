@@ -69,9 +69,6 @@ Odtworzyć layout z poniższej ilustracji (3cols.png)
 
 ZADT30503
 Przygotować stronę wyposażoną w mechanizm "tooltips" z kolorowym tłem i strzałką, reagujące na elementy.
-
-ZADT30504
-Wyświetl trzy różne karty do gry na środku strony (w pionie i w poziomie) zbudowane z dwóch elementów (front i back).
 ```
 
 ![3cols](/3cols.png)
