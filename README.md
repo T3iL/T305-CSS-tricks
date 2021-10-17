@@ -32,13 +32,6 @@ vmin | Relative to 1% of viewport's* smaller dimension
 vmax | Relative to 1% of viewport's* larger dimension	
 % | Relative to the parent element
 
-3. Position
-* static
-* relative
-* fixed
-* absolute
-* sticky
-6. Z-index
 7. Pseudoklasy (link, visited, hover, active)
 ```css
 p {
