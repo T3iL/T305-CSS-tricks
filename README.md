@@ -40,7 +40,7 @@ vmax | Relative to 1% of viewport's* larger dimension
 * sticky
 6. Z-index
 7. Pseudoklasy
-```
+```css
 /* unvisited link */
 a:link {
   color: #FF0000;
@@ -63,7 +63,7 @@ a:active {
 ```
 9. Pseudoelementy
 10. iFrame
-```
+```html
 <iframe src="//DuckDuckGo.com" height="200">
     Twoja przeglądarka nie obsługuje iframe.
 </iframe>
