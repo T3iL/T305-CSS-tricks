@@ -68,12 +68,9 @@ ZADT30502
 Odtworzyć layout z poniższej ilustracji (3cols.png)
 
 ZADT30503
-Wycentrować dowolny element na stronie (wymagana znajomość co najmniej dwóch sposobów). Stwórz dwie strony.
-
-ZADT30504
 Przygotować stronę wyposażoną w mechanizm "tooltips" z kolorowym tłem i strzałką, reagujące na elementy.
 
-ZADT30505
+ZADT30504
 Wyświetl trzy różne karty do gry na środku strony (w pionie i w poziomie) zbudowane z dwóch elementów (front i back).
 ```
 
