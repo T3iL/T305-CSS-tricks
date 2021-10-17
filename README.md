@@ -32,9 +32,14 @@ vmin | Relative to 1% of viewport's* smaller dimension
 vmax | Relative to 1% of viewport's* larger dimension	
 % | Relative to the parent element
 
-3. Position i display
-4. Z-index
-5. Pseudoelementy
+3. Position
+* static
+* relative
+* fixed
+* absolute
+* sticky
+6. Z-index
+7. Pseudoelementy
 
 
 https://css-tricks.com/the-shapes-of-css/
