@@ -40,21 +40,26 @@ vmax | Relative to 1% of viewport's* larger dimension
 * sticky
 6. Z-index
 7. Pseudoelementy
-
+8. iFrame
+```
+<iframe src="//DuckDuckGo.com" height="200">
+    Twoja przeglądarka nie obsługuje iframe.
+</iframe>
+```
 
 https://css-tricks.com/the-shapes-of-css/
 
 
 ```
 ZADT30501
-Przygotować opis znaczników h1, p, ul, li z wyjaśnieniam 
+Przygotować krótki opis znaczników h1, p, ul, li z wyjaśnieniam 
 oraz przykładem uzycia (zastosować encje HTML). Prosty tutorial HTML w autorskim layoucie.
 
 ZADT30502
 Odtworzyć layout z poniższej ilustracji (3cols.png)
 
 ZADT30503
-Wycentrować dowolny element na stronie (wymagana znajomość co najmniej dwóch sposobów)
+Wycentrować dowolny element na stronie (wymagana znajomość co najmniej dwóch sposobów). Stwórz dwie strony.
 
 ZADT30504
 Przygotować stronę wyposażoną w mechanizm "tooltips" z kolorowym tłem i strzałką, reagujące na elementy.
