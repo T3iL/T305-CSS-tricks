@@ -2,6 +2,9 @@
 ## -------INFO
 ```
 1. Layout strony
+1.1. Floats
+1.2. Flex
+1.3. Grid
 2. Jednostki w CSS
 3. Position i display
 4. Z-index
