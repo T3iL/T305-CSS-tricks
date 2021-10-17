@@ -2,13 +2,13 @@
 ## -------INFO
 
 1. Layout strony
-1.1. Floats
-1.2. Flex
-1.3. Grid
-2. Jednostki w CSS
-3. Position i display
-4. Z-index
-5. Pseudoelementy
+  1. Floats
+  1. Flex
+  1. Grid
+1. Jednostki w CSS
+1. Position i display
+1. Z-index
+1. Pseudoelementy
 
 
 https://css-tricks.com/the-shapes-of-css/
