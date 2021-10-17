@@ -2,9 +2,9 @@
 ## -------INFO
 
 1. Layout strony
-  1. Floats
-  1. Flex
-  1. Grid
+   1. Floats
+   1. Flex
+   1. Grid
 1. Jednostki w CSS
 1. Position i display
 1. Z-index
