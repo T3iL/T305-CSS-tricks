@@ -39,26 +39,16 @@ vmax | Relative to 1% of viewport's* larger dimension
 * absolute
 * sticky
 6. Z-index
-7. Pseudoklasy
+7. Pseudoklasy (link, visited, hover, active)
 ```css
-/* unvisited link */
-a:link {
-  color: #FF0000;
+p {
+  display: none;
+  background-color: yellow;
+  padding: 20px;
 }
 
-/* visited link */
-a:visited {
-  color: #00FF00;
-}
-
-/* mouse over link */
-a:hover {
-  color: #FF00FF;
-}
-
-/* selected link */
-a:active {
-  color: #0000FF;
+div:hover p {
+  display: block;
 }
 ```
 9. Pseudoelementy
