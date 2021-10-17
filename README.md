@@ -6,6 +6,7 @@
    1. Flex
    1. Grid
 1. Jednostki w CSS
+---|------------
 cm | centimeters
 mm | millimeters
 in | inches (1in = 96px = 2.54cm)
