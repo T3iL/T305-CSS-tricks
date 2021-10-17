@@ -6,12 +6,12 @@
    1. Flex
    1. Grid
 1. Jednostki w CSS
-* cm	centimeters
-* mm	millimeters
-* in	inches (1in = 96px = 2.54cm)
-* px *	pixels (1px = 1/96th of 1in)
-* pt	points (1pt = 1/72 of 1in)
-* pc	picas (1pc = 12 pt)
+cm | centimeters
+mm | millimeters
+in | inches (1in = 96px = 2.54cm)
+px | pixels (1px = 1/96th of 1in)
+pt | points (1pt = 1/72 of 1in)
+pc | picas (1pc = 12 pt)
 3. Position i display
 4. Z-index
 5. Pseudoelementy
