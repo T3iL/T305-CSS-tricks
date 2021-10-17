@@ -44,8 +44,12 @@ div:hover p {
   display: block;
 }
 ```
-9. Pseudoelementy
-10. iFrame
+9. Pseudoelementy [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-elements)
+* ::before,
+* ::after,
+* ::first-letter (:first-letter)
+* ::first-line (:first-line)
+11. iFrame
 ```html
 <iframe src="//DuckDuckGo.com" height="200">
     Twoja przeglądarka nie obsługuje iframe.
@@ -57,7 +61,7 @@ https://css-tricks.com/the-shapes-of-css/
 
 ```
 ZADT30501
-Przygotować krótki opis znaczników h1, p, ul, li z wyjaśnieniam 
+Przygotować stronę zawierającą krótki opis znaczników h1, p, ul, li z wyjaśnieniem i przykładem użycia.
 oraz przykładem uzycia (zastosować encje HTML). Prosty tutorial HTML w autorskim layoucie.
 
 ZADT30502
