@@ -73,9 +73,7 @@ Przygotować stronę wyposażoną w mechanizm "tooltips" z kolorowym tłem i str
 
 ![3cols](/3cols.png)
 
-https://www.w3schools.com/css/css_intro.asp
-
-https://miroslawzelent.pl/kurs-css/
+[Flexbox design patterns you can use in your projects](https://www.youtube.com/watch?v=vQAvjof1oe4)
 
 https://htmlcheatsheet.com/css/
 ### --------Links
