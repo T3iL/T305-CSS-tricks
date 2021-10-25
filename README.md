@@ -59,7 +59,7 @@ div:hover p {
 
 12. Position 
 ```css
-position:<absolute/fixed/sticky>
+position:<absolute/relative/fixed/sticky>
 
 ....
 			left:calc(50% - 50px);
