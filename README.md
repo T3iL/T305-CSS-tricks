@@ -5,6 +5,7 @@
    1. Floats
    1. Flex
    1. Grid
+   2. Position
 1. Jednostki w CSS
 
 ABSOLUTE
