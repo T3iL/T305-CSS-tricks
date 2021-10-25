@@ -60,9 +60,16 @@ div:hover p {
 12. Position 
 ```css
 position:<absolute/fixed/sticky>
-left:50%;
-top:50%;
-transform:translate(-50%, -50%);
+
+....
+			left:calc(50% - 50px);
+			top:calc(50% - 50px);
+....
+
+
+         left:50%;
+         top:50%;
+         transform:translate(-50%, -50%);
  ```
 
 https://css-tricks.com/the-shapes-of-css/
