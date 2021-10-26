@@ -79,7 +79,9 @@ oraz przykładem uzycia (zastosować encje HTML). Prosty tutorial HTML w autorsk
 
 ZADT30502
 Odtworzyć layout z poniższej ilustracji (3cols.png)
-
+```
+![3cols](/3cols.png)
+```
 ZADT30503
 Przygotować stronę wyposażoną w mechanizm "tooltips" z kolorowym tłem i strzałką, reagujące na elementy.
 
@@ -87,8 +89,6 @@ ZADT30504
 Przedstaw przy pomocy CSS poniższe kształty i umieść w liście uporządkowanej (50 sztuk).
 ```
 ![Shapes](50_Shapes.PNG)
-
-![3cols](/3cols.png)
 
 [Flexbox design patterns you can use in your projects](https://www.youtube.com/watch?v=vQAvjof1oe4)
 
