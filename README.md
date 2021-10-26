@@ -90,9 +90,7 @@ Przedstaw przy pomocy CSS poniższe kształty i umieść w liście uporządkowan
 ```
 ![Shapes](50_Shapes.PNG)
 
-[Flexbox design patterns you can use in your projects](https://www.youtube.com/watch?v=vQAvjof1oe4)
 
-https://htmlcheatsheet.com/css/
 ### --------Links
 https://github.com/T3iL/T303-CSS
 
@@ -103,6 +101,10 @@ https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.c
 https://www.w3.org | https://validator.w3.org | https://www.php.net/manual/en/
 
 https://css-tricks.com/the-shapes-of-css/
+
+[Flexbox design patterns you can use in your projects](https://www.youtube.com/watch?v=vQAvjof1oe4)
+
+https://htmlcheatsheet.com/css/
 
 ### --------Repositiories
 https://www.w3schools.com | https://stackoverflow.com | https://css-tricks.com |
