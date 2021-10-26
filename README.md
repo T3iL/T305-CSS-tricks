@@ -72,9 +72,6 @@ position:<absolute/relative/fixed/sticky>
          transform:translate(-50%, -50%);
  ```
 
-https://css-tricks.com/the-shapes-of-css/
-
-
 ```
 ZADT30501
 Przygotować stronę zawierającą krótki opis znaczników h1, p, ul, li z wyjaśnieniem i przykładem użycia.
@@ -85,7 +82,11 @@ Odtworzyć layout z poniższej ilustracji (3cols.png)
 
 ZADT30503
 Przygotować stronę wyposażoną w mechanizm "tooltips" z kolorowym tłem i strzałką, reagujące na elementy.
+
+ZADT30504
+Przedstaw przy pomocy CSS poniższe kształty i umieść w liście uporządkowanej (50 sztuk).
 ```
+![Shapes](50_Shapes.PNG)
 
 ![3cols](/3cols.png)
 
@@ -100,6 +101,9 @@ GOOGLE DRIVE: https://drive.google.com/drive/folders/1OqTcjwr_qAdTPO-dThxUOd3ooT
 https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css
 
 https://www.w3.org | https://validator.w3.org | https://www.php.net/manual/en/
+
+https://css-tricks.com/the-shapes-of-css/
+
 ### --------Repositiories
 https://www.w3schools.com | https://stackoverflow.com | https://css-tricks.com |
 ### --------On line editors
