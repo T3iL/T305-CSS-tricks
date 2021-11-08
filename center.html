@@ -6,36 +6,32 @@
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>T30601</title>
 	<style>
+	html,body,#container{height:100%;}
 		.box{
-			position:absolute;
 			border:1px solid;
 			width:100px;
 			height:100px;
 			display:flex;
 			justify-content:center;
 			align-items:center;
+			position:absolute;
+			opacity:0.5;
 		}
-		#box1{
-			left:0;
-			top:0;
-			background:red;opacity:0.5;
-		}
-		#box2{
-			right:0;
-			bottom:0;
-			background:yellow;opacity:0.5;
-		}
-		#box3{
-			left:50%;
-			top:50%;
-			transform:translate(-50%, -50%);
-			background:green;opacity:0.5;
+		#box1{left:0;top:0;background:green;}
+		#box2{position:relative;background:yellow;}
+		#box3{right:0;bottom:0;background:red;}
+		#container{
+			display:flex;
+			justify-content:center;
+			align-items:center;
 		}
 	</style>
 </head>
 <body>
 		<div class="box" id="box1">1</div>
-		<div class="box" id="box2">2</div>
+		<div id="container">
+			<div class="box" id="box2">2</div>
+		</div>
 		<div class="box" id="box3">3</div>
 </body>
 </html>
