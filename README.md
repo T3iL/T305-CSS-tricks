@@ -86,7 +86,7 @@ ZADT30503
 Przygotować stronę wyposażoną w mechanizm "tooltips" z kolorowym tłem i strzałką, reagujące na elementy.
 
 ZADT30504
-Przedstaw przy pomocy CSS poniższe kształty i umieść w liście uporządkowanej (50 sztuk).
+Przedstaw przy pomocy CSS poniższe kształty i umieść w liście uporządkowanej (50 sztuk). Przeskaluj elementy które nie pasują do reszty tak aby wszystkie miały podobne wymiary.
 ```
 ![Shapes](50_Shapes.PNG)
 
